@@ -1,0 +1,116 @@
+game_id,character_id,role_in_game,game_title,character_name,year,type,chronology_order
+re,6,villain,Resident Evil,Albert Wesker,1996,mainline,2
+re,15,hero,Resident Evil,Chris Redfield,1996,mainline,2
+re,16,hero,Resident Evil,Jill Valentine,1996,mainline,2
+re,17,support,Resident Evil,Barry Burton,1996,mainline,2
+re,18,support,Resident Evil,Brad Vickers,1996,mainline,2
+re,19,support,Resident Evil,Joseph Frost,1996,mainline,2
+re,20,support,Resident Evil,Rebecca Chambers,1996,mainline,2
+re,21,support,Resident Evil,Richard Aiken,1996,mainline,2
+re,22,support,Resident Evil,Enrico Marini,1996,mainline,2
+re,23,support,Resident Evil,Forest Speyer,1996,mainline,2
+re,24,support,Resident Evil,Kenneth J. Sullivan,1996,mainline,2
+re0,6,villain,Resident Evil 0,Albert Wesker,2002,mainline,1
+re0,20,hero,Resident Evil 0,Rebecca Chambers,2002,mainline,1
+re0,22,support,Resident Evil 0,Enrico Marini,2002,mainline,1
+re0,27,villain,Resident Evil 0,William Birkin,2002,mainline,1
+re0,42,hero,Resident Evil 0,Billy Coen,2002,mainline,1
+re0,43,villain,Resident Evil 0,James Marcus,2002,mainline,1
+re0,44,support,Resident Evil 0,Edward Dewey,2002,mainline,1
+re2,1,hero,Resident Evil 2,Leon Scott Kennedy,1998,mainline,4
+re2,3,support,Resident Evil 2,Ada Wong,1998,mainline,4
+re2,25,hero,Resident Evil 2,Claire Redfield,1998,mainline,4
+re2,26,support,Resident Evil 2,Sherry Birkin,1998,mainline,4
+re2,27,villain,Resident Evil 2,William Birkin,1998,mainline,4
+re2,28,support,Resident Evil 2,Annette Birkin,1998,mainline,4
+re2,29,villain,Resident Evil 2,Brian Irons,1998,mainline,4
+re2,30,support,Resident Evil 2,Marvin Branagh,1998,mainline,4
+re2,31,support,Resident Evil 2,Ben Bertolucci,1998,mainline,4
+re2,32,support,Resident Evil 2,Robert Kendo,1998,mainline,4
+re3,16,hero,Resident Evil 3: Nemesis,Jill Valentine,1999,mainline,3
+re3,18,support,Resident Evil 3: Nemesis,Brad Vickers,1999,mainline,3
+re3,30,support,Resident Evil 3: Nemesis,Marvin Branagh,1999,mainline,3
+re3,33,hero,Resident Evil 3: Nemesis,Carlos Oliveira,1999,mainline,3
+re3,34,villain,Resident Evil 3: Nemesis,Nemesis,1999,mainline,3
+re3,35,villain,Resident Evil 3: Nemesis,Nikolai Zinoviev,1999,mainline,3
+re3,36,support,Resident Evil 3: Nemesis,Mikhail Victor,1999,mainline,3
+re3,37,support,Resident Evil 3: Nemesis,Dario Rosso,1999,mainline,3
+re4,1,hero,Resident Evil 4,Leon Scott Kennedy,2005,mainline,6
+re4,2,hero,Resident Evil 4,Ashley Graham,2005,mainline,6
+re4,3,hero,Resident Evil 4,Ada Wong,2005,mainline,6
+re4,4,hero,Resident Evil 4,Ingrid Hunnigan,2005,mainline,6
+re4,5,hero,Resident Evil 4,Luis Sera,2005,mainline,6
+re4,6,villain,Resident Evil 4,Albert Wesker,2005,mainline,6
+re4,7,hero,Resident Evil 4,HUNK,2005,mainline,6
+re4,8,hero,Resident Evil 4,Mercante d'armi,2005,mainline,6
+re4,9,villain,Resident Evil 4,Las Plagas,2005,mainline,6
+re4,10,villain,Resident Evil 4,Los Ganados,2005,mainline,6
+re4,11,villain,Resident Evil 4,Lord Osmund Saddler,2005,mainline,6
+re4,12,villain,Resident Evil 4,Ramon Salazar,2005,mainline,6
+re4,13,villain,Resident Evil 4,Bitores Mendez,2005,mainline,6
+re4,14,villain,Resident Evil 4,Jack Krauser,2005,mainline,6
+re5,6,villain,Resident Evil 5,Albert Wesker,2009,mainline,8
+re5,15,hero,Resident Evil 5,Chris Redfield,2009,mainline,8
+re5,16,support,Resident Evil 5,Jill Valentine,2009,mainline,8
+re5,45,hero,Resident Evil 5,Sheva Alomar,2009,mainline,8
+re5,46,villain,Resident Evil 5,Ricardo Irving,2009,mainline,8
+re5,47,villain,Resident Evil 5,Excella Gionne,2009,mainline,8
+re5,48,support,Resident Evil 5,Josh Stone,2009,mainline,8
+re5,49,support,Resident Evil 5,Ozwell E. Spencer,2009,mainline,8
+re6,1,hero,Resident Evil 6,Leon Scott Kennedy,2012,mainline,10
+re6,3,support,Resident Evil 6,Ada Wong,2012,mainline,10
+re6,4,support,Resident Evil 6,Ingrid Hunnigan,2012,mainline,10
+re6,15,hero,Resident Evil 6,Chris Redfield,2012,mainline,10
+re6,26,support,Resident Evil 6,Sherry Birkin,2012,mainline,10
+re6,60,hero,Resident Evil 6,Jake Muller,2012,mainline,10
+re6,61,hero,Resident Evil 6,Helena Harper,2012,mainline,10
+re6,62,hero,Resident Evil 6,Piers Nivans,2012,mainline,10
+re6,63,villain,Resident Evil 6,Derek C. Simmons,2012,mainline,10
+re7,67,hero,Resident Evil 7: Biohazard,Ethan Winters,2017,mainline,11
+re7,68,support,Resident Evil 7: Biohazard,Mia Winters,2017,mainline,11
+re7,69,villain,Resident Evil 7: Biohazard,Jack Baker,2017,mainline,11
+re7,70,villain,Resident Evil 7: Biohazard,Marguerite Baker,2017,mainline,11
+re7,71,villain,Resident Evil 7: Biohazard,Lucas Baker,2017,mainline,11
+re7,72,support,Resident Evil 7: Biohazard,Zoe Baker,2017,mainline,11
+re7,73,villain,Resident Evil 7: Biohazard,Eveline,2017,mainline,11
+re8,15,support,Resident Evil Village,Chris Redfield,2021,mainline,12
+re8,67,hero,Resident Evil Village,Ethan Winters,2021,mainline,12
+re8,68,support,Resident Evil Village,Mia Winters,2021,mainline,12
+re8,74,support,Resident Evil Village,Rosemary Winters,2021,mainline,12
+re8,75,villain,Resident Evil Village,Mother Miranda,2021,mainline,12
+re8,76,villain,Resident Evil Village,Alcina Dimitrescu,2021,mainline,12
+re8,77,villain,Resident Evil Village,Karl Heisenberg,2021,mainline,12
+re8,78,villain,Resident Evil Village,Salvatore Moreau,2021,mainline,12
+re8,79,villain,Resident Evil Village,Donna Beneviento,2021,mainline,12
+re9,1,hero,Resident Evil Requiem,Leon Scott Kennedy,2026,mainline,14
+re9,26,support,Resident Evil Requiem,Sherry Birkin,2026,mainline,14
+re9,80,hero,Resident Evil Requiem,Grace Ashcroft,2026,mainline,14
+re9,81,villain,Resident Evil Requiem,Victor Gideon,2026,mainline,14
+re9,82,support,Resident Evil Requiem,Nathan Dempsey,2026,mainline,14
+re9,83,support,Resident Evil Requiem,Alyssa Ashcroft,2026,mainline,14
+re_re,15,hero,Resident Evil: Revelations,Chris Redfield,2012,spinoff,7
+re_re,16,hero,Resident Evil: Revelations,Jill Valentine,2012,spinoff,7
+re_re,51,support,Resident Evil: Revelations,Parker Luciani,2012,spinoff,7
+re_re,52,support,Resident Evil: Revelations,Jessica Sherawat,2012,spinoff,7
+re_re,53,support,Resident Evil: Revelations,Clive R. O'Brian,2012,spinoff,7
+re_re,54,support,Resident Evil: Revelations,Raymond Vester,2012,spinoff,7
+re_re,55,villain,Resident Evil: Revelations,Morgan Lansdale,2012,spinoff,7
+re_re,56,villain,Resident Evil: Revelations,Jack Norman,2012,spinoff,7
+re_re,57,support,Resident Evil: Revelations,Rachel Foley,2012,spinoff,7
+re_re,58,support,Resident Evil: Revelations,Keith Lumley,2012,spinoff,7
+re_re,59,support,Resident Evil: Revelations,Quint Cetcham,2012,spinoff,7
+re_re2,17,hero,Resident Evil: Revelations 2,Barry Burton,2015,spinoff,9
+re_re2,25,hero,Resident Evil: Revelations 2,Claire Redfield,2015,spinoff,9
+re_re2,64,support,Resident Evil: Revelations 2,Moira Burton,2015,spinoff,9
+re_re2,65,support,Resident Evil: Revelations 2,Natalia Korda,2015,spinoff,9
+re_re2,66,villain,Resident Evil: Revelations 2,Alex Wesker,2015,spinoff,9
+re_sr,67,support,Resident Evil Village – Shadow of Rose,Ethan Winters,2022,spinoff,13
+re_sr,74,hero,Resident Evil Village – Shadow of Rose,Rosemary Winters,2022,spinoff,13
+re_sr,75,villain,Resident Evil Village – Shadow of Rose,Mother Miranda,2022,spinoff,13
+re_ve,6,villain,Resident Evil: Code – Veronica,Albert Wesker,2000,mainline,5
+re_ve,15,hero,Resident Evil: Code – Veronica,Chris Redfield,2000,mainline,5
+re_ve,25,hero,Resident Evil: Code – Veronica,Claire Redfield,2000,mainline,5
+re_ve,38,hero,Resident Evil: Code – Veronica,Steve Burnside,2000,mainline,5
+re_ve,39,villain,Resident Evil: Code – Veronica,Alexia Ashford,2000,mainline,5
+re_ve,40,villain,Resident Evil: Code – Veronica,Alfred Ashford,2000,mainline,5
+re_ve,41,support,Resident Evil: Code – Veronica,Rodrigo Juan Raval,2000,mainline,5
