@@ -20,7 +20,12 @@
 - .groupby():
   Método avanzado para agrupar datos por categorías(ej. agrupar por título de juego) y aplicar funciones de agregación.
 
+# Herramientas y Métodos de Matplotlib utilizados
+
 # Preguntas de Negocio
 
-- Pregunta 1: ¿Qué personaje tiene más apariciones en toda la saga?
+- Pregunta 1: ¿Qué personajes tiene más apariciones en toda la saga?
 - Pregunta 2: ¿Qué juego tiene la mayor cantidad de personajes en este dataset?
+- Pregunta 3: ¿Cuál es la cronología de lanzamiento de todos los juegos de RE?
+- Pregunta 4: ¿Qué juegos contienen más escenas?
+- Pregunta 5: ¿Qué personajes tienen más interacciones?
