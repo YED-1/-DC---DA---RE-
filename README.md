@@ -27,5 +27,6 @@
 - Pregunta 1: ¿Qué personajes tiene más apariciones en toda la saga?
 - Pregunta 2: ¿Qué juego tiene la mayor cantidad de personajes en este dataset?
 - Pregunta 3: ¿Cuál es la cronología de lanzamiento de todos los juegos de RE?
-- Pregunta 4: ¿Qué juegos contienen más escenas?
+- Pregunta 4: ¿Qué juegos contienen más escenas? #Falta por visualizar
 - Pregunta 5: ¿Qué personajes tienen más interacciones?
+- Pregunta 6: ¿En qué escenas se realizan más interacciones?
